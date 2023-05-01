@@ -1,0 +1,9 @@
+.card-img{
+
+    object-fit: cover;
+}
+.card-container{
+    padding:20px;
+    height:auto;
+
+}
