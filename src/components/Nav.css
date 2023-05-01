@@ -1,0 +1,22 @@
+nav{
+    background-color: rgb(31, 35, 39);
+    padding:0.75rem;
+}
+
+.navbar-item{
+    display:flex;
+    align-items:center;
+    justify-content: center;
+    width:12rem;
+}
+
+img{
+    max-width: 3rem;
+}
+
+.text-logo{
+    color:white;
+    padding-left:20px;
+    font-weight: 500;
+    font-size:20px;
+}

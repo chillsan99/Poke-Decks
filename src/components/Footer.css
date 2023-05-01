@@ -1,0 +1,13 @@
+.info{
+    text-align:center;
+    display:flex;
+    flex-direction:column;
+    line-height: 2rem;
+    padding:20px;
+    color:white;
+}
+
+.footer-container{
+    
+    background-color:rgb(20, 17, 18);
+}
